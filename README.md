@@ -1,1 +1,1 @@
-https://github.com/TylesKS/Simas-Auto-Cars/deployments/github-pages
+https://tylesks.github.io/Simas-Auto-Cars/
