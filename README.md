@@ -1,3 +1,5 @@
 <html>
-  <a href="https://github.com/TylesKS/Simas-Auto-Cars.git">Site</a>
+  <body style="text-align: center;">
+    <a href="https://tylesks.github.io/Simas-Auto-Cars/" style="text-decoration: none;">Site</a>
+  </body>
 </html>
